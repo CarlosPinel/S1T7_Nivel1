@@ -75,7 +75,4 @@ public class Trabajador {
 		return resultado;
 	};
 	
-	
-	
-	
 }
